@@ -13,15 +13,16 @@ class ModeloUsuarios{
 
         $stmtvv = Conexion::conectar()->prepare("UPDATE caja SET fechaconvertida = date_format(fecha, '%Y-%m-%d')");
         $stmtvv->execute();
-        $stmtvvv = Conexion::conectar()->prepare("UPDATE caja SET estado = 'desactivo' where fechaconvertida NOT LIKE  '%$fechahoy%'");
+        $stmtvvv = Conexion::conectar()->prepare("UPDATE caja SET estado = 'desactivo' where fechaconvertida NOT LIKE :fechahoy");
+        $stmtvvv->bindValue(":fechahoy", "%$fechahoy%", PDO::PARAM_STR);
         $stmtvvv->execute();
 
 //date_format(fecha, "%d-%m-%Y")
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item ,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 

@@ -22,20 +22,9 @@
             <div class="box-header with-border">
 
                 <?php
-                $servername = "host.cpse13.eu";
-                $username = "y224661_useravicolajb";
-                $password = "@exenk123456@";
-                $dbname = "y224661_nuevabaseavicolajb";
+                require_once __DIR__ . "/../../modelo/conexion.php";
 
-                try {
-                    // Crear conexión usando PDO
-                    $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
-                    // Configurar el modo de error de PDO a excepción
-                    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-                    echo "Conexión exitosa.<br>";
-                } catch (PDOException $e) {
-                    die("Error de conexión: " . $e->getMessage());
-                }
+                $conn = Conexion::conectar();
 
                 // Consultar datos de ambas tablas
                 $query_datos_excel = "SELECT * FROM datos_excel ORDER BY `datos_excel`.`id` DESC";
@@ -47,11 +36,13 @@
                     die("Error en la consulta de datos_excel: " . $e->getMessage());
                 }
 
-              
+                if (!$result_datos_excel) {
+                    die("No se pudo cargar la tabla datos_excel.");
+                }
 
-                // Verificar si hay resultados
-                if ($result_datos_excel->rowCount() > 0) {
-                } else {
+                $datos_excel = $result_datos_excel->fetchAll(PDO::FETCH_ASSOC);
+
+                if (count($datos_excel) === 0) {
                     echo "No hay datos en datos_excel.<br>";
                 }
 
@@ -100,30 +91,26 @@
                             </tr>
                         </thead>
                         <tbody>
-                        <?php 
-                        $sum =0 ;
-                        
-                        while ($row = $result_datos_excel->fetch(PDO::FETCH_ASSOC)): 
-                            $sum++; // Incrementamos la variable en cada iteración
-                        ?>
+                        <?php $sum = 0; ?>
+                        <?php foreach ($datos_excel as $row): $sum++; ?>
                             <tr>
                                 <td><?php echo htmlspecialchars($sum); ?></td>
                                 <td><?php echo htmlspecialchars($row['id']); ?></td>
                                 <td><?php echo htmlspecialchars($row['dni']); ?></td>
                                 <td><?php echo htmlspecialchars($row['fecha']); ?></td>
-                                    <td><?php echo htmlspecialchars($row['monto']); ?></td>
-                                    <td class="<?php echo ($row['validado'] != 1) ? 'invalid' : ''; ?>">
-                                        <?php echo htmlspecialchars($row['validado']); ?>
-                                    </td>
-                                    <td><?php echo htmlspecialchars($row['observado']); ?></td>
-                                    <td><?php echo htmlspecialchars($row['detalle']); ?></td>
-                                    <td>
-                                        <button class="btn btn-primary btnver" id="<?php echo $row["dni"]; ?>" data-toggle="modal" data-target="#modalver">
-                                            <i class="fa fa-eye"></i>
-                                        </button>
-                                    </td>
-                                </tr>        
-                            <?php endwhile; ?>
+                                <td><?php echo htmlspecialchars($row['monto']); ?></td>
+                                <td class="<?php echo ($row['validado'] != 1) ? 'invalid' : ''; ?>">
+                                    <?php echo htmlspecialchars($row['validado']); ?>
+                                </td>
+                                <td><?php echo htmlspecialchars($row['observado']); ?></td>
+                                <td><?php echo htmlspecialchars($row['detalle']); ?></td>
+                                <td>
+                                    <button class="btn btn-primary btnver" id="<?php echo $row["dni"]; ?>" data-toggle="modal" data-target="#modalver">
+                                        <i class="fa fa-eye"></i>
+                                    </button>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
                         </tbody>
                     </table>
                 </div>

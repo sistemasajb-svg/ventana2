@@ -27,7 +27,9 @@ class ModeloClientes{
 
 
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=$valor");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
+
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
            

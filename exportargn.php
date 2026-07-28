@@ -1,17 +1,12 @@
 <?php
 require 'vendor/autoload.php'; // Asegúrate de que la ruta sea correcta
+require_once __DIR__ . "/modelo/conexion.php";
 
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 // Obtener los datos de la base de datos
-try {
-    $pdo = new PDO("mysql:host=host.cpse13.eu;dbname=y224661_nuevabaseavicolajb", "y224661_useravicolajb", "@exenk123456@");
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-} catch (PDOException $e) {
-    echo "Error de conexión: " . $e->getMessage();
-    exit;
-}
+$pdo = Conexion::conectar();
 
 $id1 = isset($_GET['idVenta']) ? intval($_GET['idVenta']) : 0;
 
@@ -19,6 +14,11 @@ $id1 = isset($_GET['idVenta']) ? intval($_GET['idVenta']) : 0;
 $stmtclientes = $pdo->prepare("SELECT id, nombre, documento FROM clientes WHERE id = :id ");
 $stmtclientes->execute(['id' => $id1]);
 $stmtclientes = $stmtclientes->fetch(PDO::FETCH_ASSOC);
+
+if (!$stmtclientes) {
+    echo "ID de cliente inválido.";
+    exit;
+}
 
 $id = $stmtclientes["id"];
 $nombre = $stmtclientes["nombre"];

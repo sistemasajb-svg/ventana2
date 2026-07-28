@@ -24,16 +24,9 @@
 
     <?php
 
-    try {
-        // Configuración de la conexión a la base de datos
-        $pdo = new PDO("mysql:host=host.cpse13.eu;dbname=y224661_nuevabaseavicolajb", "y224661_useravicolajb", "@exenk123456@");
-        // Configurar el modo de error para que lance excepciones
-        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    } catch (PDOException $e) {
-        // Manejar errores de conexión
-        echo "Error de conexión: " . $e->getMessage();
-        exit;
-    }
+    require_once __DIR__ . "/../../modelo/conexion.php";
+
+    $pdo = Conexion::conectar();
 
     // Recuperar el ID de la venta desde la URL y asegurarse de que sea un número entero
     $id1 = isset($_GET['idVenta']) ? intval($_GET['idVenta']) : 0;
@@ -43,6 +36,11 @@
     $stmtclientes = $pdo->prepare("SELECT id, nombre, documento FROM clientes WHERE id = :id ");
     $stmtclientes->execute(['id' => $id1]);
     $stmtclientes = $stmtclientes->fetch(PDO::FETCH_ASSOC);
+
+    if (!$stmtclientes) {
+        echo "ID de cliente inválido.";
+        exit;
+    }
 
 
     $id = $stmtclientes["id"];
