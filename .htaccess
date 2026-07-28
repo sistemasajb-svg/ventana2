@@ -1,0 +1,9 @@
+Options All -Indexes
+php_value date.timezone 'America/Lima'
+RewriteEngine On
+
+RewriteRule ^([-a-zA-Z0-9]+)$ index.php?ruta=$1
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

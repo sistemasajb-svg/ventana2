@@ -1,0 +1,1035 @@
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[30-Jun-2026 16:59:18 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[30-Jun-2026 17:40:52 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[01-Jul-2026 12:03:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[01-Jul-2026 16:16:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[01-Jul-2026 17:34:28 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[02-Jul-2026 11:38:15 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[02-Jul-2026 14:54:08 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[02-Jul-2026 16:21:04 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[02-Jul-2026 16:49:27 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[02-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[03-Jul-2026 08:46:22 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[03-Jul-2026 17:33:03 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[04-Jul-2026 16:22:18 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[04-Jul-2026 17:20:58 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 08:33:23 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 08:33:54 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 08:35:02 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 08:35:21 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:57 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 08:35:58 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 08:35:58 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:58 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 08:35:58 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 08:35:58 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 17:31:16 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[06-Jul-2026 17:31:25 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[07-Jul-2026 17:21:01 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[08-Jul-2026 16:24:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[08-Jul-2026 17:36:55 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[09-Jul-2026 10:32:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[09-Jul-2026 17:15:09 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[10-Jul-2026 17:31:39 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[11-Jul-2026 13:41:43 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[13-Jul-2026 17:21:57 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[13-Jul-2026 17:29:07 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[14-Jul-2026 14:57:44 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[14-Jul-2026 17:21:21 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[15-Jul-2026 16:22:16 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[15-Jul-2026 17:36:49 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[16-Jul-2026 08:32:47 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[16-Jul-2026 10:16:38 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[16-Jul-2026 17:15:30 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[17-Jul-2026 11:46:10 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[17-Jul-2026 17:31:20 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[18-Jul-2026 13:45:07 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[20-Jul-2026 15:43:19 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[20-Jul-2026 17:35:55 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[21-Jul-2026 17:42:30 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19689
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startcolumn in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19649
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19650
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19653
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19656
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index:  in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19657
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined offset: -1 in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19712
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined index: startx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19909
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: startpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: endpage in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 19910
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18258
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Trying to access array offset on value of type null in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18325
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: cellspacing in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18351
+[22-Jul-2026 17:36:41 America/Lima] PHP Notice:  Undefined variable: cellspacingx in /home/y224661/ventana2.avicolajb.com/extensiones/tcpdf.php on line 18406

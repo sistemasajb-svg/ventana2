@@ -1,0 +1,173 @@
+<?php 
+
+session_start();
+
+
+?>
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>sistemas de ventas </title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="vistas/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="vistas/bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="vistas/bower_components/Ionicons/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="vistas/dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+       folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="vistas/dist/css/skins/_all-skins.min.css">
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
+
+    <!-- ChartJS http://www.chartjs.org/-->
+    <script src="vistas/bower_components/Chart.js/Chart.js"></script>
+
+    <!--=====================================
+    daterangepicker
+    ======================================-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+
+
+
+
+    <!--=====================================
+    PLUGINS DE JAVASCRIPT
+    ======================================-->
+
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+    <!-- Google Font -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+</head>
+
+<body class="hold-transition skin-green sidebar-mini">
+
+    <?php
+    
+if(isset($_SESSION["iniciarSesion"]) && $_SESSION["iniciarSesion"] == "ok"){
+
+    echo'<div class="wrapper">';
+
+        include "modulos/cabecera.php";
+
+        include "modulos/menu.php";
+
+        if(isset($_GET["ruta"])){
+
+            if($_GET["ruta"] == "usuarios" ||
+                $_GET["ruta"] == "inicio" ||
+                $_GET["ruta"] == "vergeneral" ||
+                $_GET["ruta"] == "excelpagosbanco" ||
+                $_GET["ruta"] == "salir" ||
+                $_GET["ruta"] == "cajas" ||
+                $_GET["ruta"] == "pagosmasivos" ||
+                $_GET["ruta"] == "validar" ||
+                $_GET["ruta"] == "pagos" ||
+                $_GET["ruta"] == "eliminaringresosegresos" ||
+                $_GET["ruta"] == "pendientes" ||
+                $_GET["ruta"] == "ingresoegreso" ||
+                $_GET["ruta"] == "listadoventasterminadas" ||
+                $_GET["ruta"] == "personas" ||
+                $_GET["ruta"] == "eliminarpagos" ||
+                $_GET["ruta"] == "historialpagos" ||
+                $_GET["ruta"] == "login"){
+
+                include "modulos/".$_GET["ruta"].".php";
+            }
+
+        }else{
+
+            include "modulos/inicio.php";
+
+
+        }
+
+
+        include "modulos/footer.php";
+
+        echo '</div>';
+
+
+    }else{
+
+        include "modulos/login.php";
+
+
+    }
+
+
+?>
+
+
+
+
+
+
+
+
+
+    <!-- ./wrapper -->
+
+
+
+    <!-- jQuery 3 -->
+    <script src="vistas/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="vistas/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- SlimScroll -->
+    <script src="vistas/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <!-- FastClick -->
+    <script src="vistas/bower_components/fastclick/lib/fastclick.js"></script>
+    <!-- AdminLTE App -->
+    <script src="vistas/dist/js/adminlte.min.js"></script>
+
+
+
+
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/fixedheader/3.2.4/js/dataTables.fixedHeader.min.js"></script>
+
+
+
+
+
+
+
+    <script src="vistas/js/usuarios.js"></script>
+    <script src="vistas/js/ingresoegreso.js"></script>
+    <script src="vistas/js/cajas.js"></script>
+    <script src="vistas/js/pagos.js"></script>
+    <script src="vistas/js/verventas.js"></script>
+    <script src="vistas/js/personas.js"></script>
+    <script src="vistas/js/pendientes.js"></script>
+
+
+
+
+   
+</body>
+
+</html>
