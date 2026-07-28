@@ -28,9 +28,15 @@
 
 
                    </div>
-                   <div class="box-body"style="overflow-y: scroll;">
+<div class="box-body"style="overflow-y: scroll;">
 
-                       <table id="tablas2" class="table table-bordered table-striped dt-responsive tablas" width="100%">
+                        <script>
+                            $(document).ready(function() {
+                                initDataTable('#tablas2');
+                            });
+                        </script>
+
+                        <table id="tablas2" class="table table-bordered table-striped dt-responsive tablas" width="100%">
 
                            <thead>
                                <tr>
@@ -85,7 +91,7 @@
                                 <td>'.$value["documento"].'</td>
                                 <td hidden>'.$value["email"].'</td>
                                 <td>'.$value["telefono"].'</td>
-                                <td>'.$value["direccion"].'</td>;                                                                                                          
+                                <td>'.$value["direccion"].'</td>                                                                                                          
                                 <td>'.$value["fechacreacion"].'</td>
                                 ';
 

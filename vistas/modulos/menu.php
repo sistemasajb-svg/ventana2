@@ -241,6 +241,15 @@
 	}
 </script>
 
+<script>
+	$(function() {
+		var ruta = window.location.pathname.split('/').pop();
+		$('.sidebar-menu a').filter(function() {
+			return $(this).attr('href') === ruta;
+		}).closest('li').addClass('active').parents('li.treeview').addClass('active');
+	});
+</script>
+
 
 <style>
 	/* Popup container */
