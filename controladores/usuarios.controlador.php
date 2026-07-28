@@ -1,5 +1,9 @@
 <?php
 
+require_once __DIR__ . "/../modelo/usuarios.modelo.php";
+
+use \ModeloUsuarios;
+
 class ControladorUsuarios
 {
 
@@ -28,7 +32,7 @@ class ControladorUsuarios
 
                 if ($respuesta["estado"] == 1 && $respuesta["perfil"] == "Caja" || $respuesta["perfil"] == "Caja2" || $respuesta["perfil"] == "Masiva" || $respuesta["perfil"] == "Administrador") {
 
-                    $_SESSION["iniciarSesion"] = "ok";
+                    $_SESSION["iniciarSesion"] = "okcompra";
                     $_SESSION["id"] = $respuesta["id"];
                     $_SESSION["nombre"] = $respuesta["nombre"];
                     $_SESSION["usuario"] = $respuesta["usuario"];
@@ -72,6 +76,11 @@ class ControladorUsuarios
 	MOSTRAR USUARIOS
 	=============================================*/
 
+    /**
+     * @param string|null $item
+     * @param mixed $valor
+     * @return mixed
+     */
     static public function ctrMostrarUsuarios($item, $valor)
     {
 
