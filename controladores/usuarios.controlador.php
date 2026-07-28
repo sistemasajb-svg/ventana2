@@ -2,8 +2,6 @@
 
 require_once __DIR__ . "/../modelo/usuarios.modelo.php";
 
-use \ModeloUsuarios;
-
 class ControladorUsuarios
 {
 
@@ -17,8 +15,6 @@ class ControladorUsuarios
 
         if (isset($_POST["usuario"])) {
 
-            $encriptar = crypt($_POST["password"], '$2a$07$asxx54ahjppf45sd87a5a4dDDGsystemdev$');
-
             $tabla = "usuarios";
 
             $item = "usuario";
@@ -28,9 +24,20 @@ class ControladorUsuarios
 
             $respuesta = ModeloUsuarios::mdlMostrarUsuarios($tabla, $item, $valor);
 
-            if ($respuesta["usuario"] == $_POST["usuario"] && $respuesta["password"] == $encriptar) {
+            if ($respuesta["usuario"] == $_POST["usuario"] && checkPassword($_POST["password"], $respuesta["password"])) {
+
+                if (!password_verify($_POST["password"], $respuesta["password"]) && $respuesta["password"] === crypt($_POST["password"], OLD_CRYPT_SALT)) {
+                    $nuevoHash = hashPassword($_POST["password"]);
+                    ModeloUsuarios::mdlActualizarUsuario($tabla, "password", $nuevoHash, "usuario", $_POST["usuario"]);
+                }
 
                 if ($respuesta["estado"] == 1 && $respuesta["perfil"] == "Caja" || $respuesta["perfil"] == "Caja2" || $respuesta["perfil"] == "Masiva" || $respuesta["perfil"] == "Administrador") {
+
+                    if (isset($_POST["recuerdame"])) {
+                        setcookie("usuario_recordado", $_POST["usuario"], time() + 86400 * 30, "/");
+                    } else {
+                        setcookie("usuario_recordado", "", time() - 3600, "/");
+                    }
 
                     $_SESSION["iniciarSesion"] = "okcompra";
                     $_SESSION["id"] = $respuesta["id"];
@@ -182,7 +189,7 @@ class ControladorUsuarios
             if ($_POST["editarPassword"] != "") {
 
 
-                $encriptar = crypt($_POST["editarPassword"], '$2a$07$asxx54ahjppf45sd87a5a4dDDGsystemdev$');
+                $encriptar = hashPassword($_POST["editarPassword"]);
             } else {
 
                 $encriptar = $_POST["passwordActual"];
@@ -315,7 +322,7 @@ class ControladorUsuarios
             $tabla = "usuarios";
 
 
-            $encriptar = crypt($_POST["nuevoPassword"], '$2a$07$asxx54ahjppf45sd87a5a4dDDGsystemdev$');
+            $encriptar = hashPassword($_POST["nuevoPassword"]);
 
             $datos = array(
 
