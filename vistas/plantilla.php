@@ -62,7 +62,7 @@ session_start();
 
     <?php
     
-if(isset($_SESSION["iniciarSesion"]) && $_SESSION["iniciarSesion"] == "ok"){
+if(isset($_SESSION["iniciarSesion"]) && $_SESSION["iniciarSesion"] == "okcompra"){
 
     echo'<div class="wrapper">';
 
