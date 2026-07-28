@@ -8,14 +8,19 @@ class ModeloVerventas{
     
     static public function mdlVentasporfecha($tabla, $fechaInicial, $fechaFinal)
 	{
-		$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE fecha >= '$fechaInicial' AND fecha <= '$fechaFinal'; ");
+		$db = Conexion::conectar();
+		$stmt = $db->prepare("SELECT * FROM $tabla WHERE fecha >= :fechaInicial AND fecha < :fechaFinal");
+		$fechaFinalConsulta = date('Y-m-d', strtotime($fechaFinal . ' +1 day'));
 
-		$stmt->bindParam(":fecha1", $fechaInicial, PDO::PARAM_STR);
-		$stmt->bindParam(":fecha2", $fechaFinal, PDO::PARAM_STR);
+		$stmt->bindParam(":fechaInicial", $fechaInicial, PDO::PARAM_STR);
+		$stmt->bindParam(":fechaFinal", $fechaFinalConsulta, PDO::PARAM_STR);
 
 		$stmt->execute();
 
-		return $stmt->fetchAll();
+		$resultado = $stmt->fetchAll();
+		$stmt->closeCursor();
+
+		return $resultado;
 	}
     
     
@@ -23,51 +28,54 @@ class ModeloVerventas{
 
     static public function mdlRangoFechasVentasTerminadas($tabla,$fechaInicial,$fechaFinal){
 
+		$db = Conexion::conectar();
+
 
 
 		if($fechaInicial == null){
 	
-			$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE estado like 'Terminado' ORDER BY codigo DESC LIMIT 100");
+			$stmt = $db->prepare("SELECT * FROM $tabla WHERE estado like 'Terminado' ORDER BY codigo DESC LIMIT 100");
 	
 			$stmt -> execute();
 	
-			return $stmt -> fetchAll();	
+			$resultado = $stmt->fetchAll();
+			$stmt->closeCursor();
+
+			return $resultado;	
 	
 	
 	
 		}else if($fechaInicial ==$fechaFinal){
 	
-				$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE fecha like '%$fechaFinal%' and estado like 'Terminado' ORDER BY id_cliente DESC");
-	
-				$stmt -> bindParam(":fecha", $fechaFinal, PDO::PARAM_STR);
+				$stmt = $db->prepare("SELECT * FROM $tabla WHERE fecha >= :fechaInicial AND fecha < :fechaFinal and estado like 'Terminado' ORDER BY id_cliente DESC");
+				$fechaFinalConsulta = date('Y-m-d', strtotime($fechaFinal . ' +1 day'));
+
+				$stmt -> bindParam(":fechaInicial", $fechaInicial, PDO::PARAM_STR);
+				$stmt -> bindParam(":fechaFinal", $fechaFinalConsulta, PDO::PARAM_STR);
 	
 				$stmt -> execute();
 	
-				return $stmt -> fetchAll();
+				$resultado = $stmt->fetchAll();
+				$stmt->closeCursor();
+
+				return $resultado;
 	
 	
 	
 		}else{
 	
 	
-			$fechaFinal=explode("-",$fechaFinal);
-	
-			//var_dump($fechaFinal);
-	
-			$fechaFinal =$fechaFinal[0].'-'.$fechaFinal[1].'-'.($fechaFinal[2]+1);
-	
-			if($fechaInicial != $fechaFinal){
-	
-				$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE fecha BETWEEN '$fechaInicial' and '$fechaFinal' and estado like 'Terminado' ORDER BY id_cliente DESC");
-	
-	
-	
-	
-			}
-	
+			$fechaFinalConsulta = date('Y-m-d', strtotime($fechaFinal . ' +1 day'));
+			$stmt = $db->prepare("SELECT * FROM $tabla WHERE fecha >= :fechaInicial AND fecha < :fechaFinal and estado like 'Terminado' ORDER BY id_cliente DESC");
+			$stmt->bindParam(":fechaInicial", $fechaInicial, PDO::PARAM_STR);
+			$stmt->bindParam(":fechaFinal", $fechaFinalConsulta, PDO::PARAM_STR);
+			
 			$stmt -> execute();
 	
-			return $stmt -> fetchAll();
+			$resultado = $stmt->fetchAll();
+			$stmt->closeCursor();
+
+			return $resultado;
 	
 	
 	

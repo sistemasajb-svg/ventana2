@@ -73,7 +73,7 @@
 
                                     }
 
-                                    $respuesta=ControladorVerventas::ctrRangoFechasVentasTerminadas($fechaInicial,$fechaFinal);
+                                    $respuesta=ControladorVerventas::ctrListarVentasTerminadas($fechaInicial,$fechaFinal);
 
 
 
@@ -91,23 +91,11 @@
                                         <tr>
 
                                             <td>'.($key+1).'</td>
-                                            <td>'.$value["codigo"].'</td>';
+                                            <td>'.$value["codigo"].'</td>
 
-                                            $itemCliente="id";
-                                            $valorCliente=$value["id_cliente"];
+                                            <td>'.$value["cliente_nombre"].'</td>
 
-                                            $respuestaCliente=ControladorClientes::ctrMostrarClientes($itemCliente,$valorCliente);
-
-
-                                            echo' <td>'.$respuestaCliente["nombre"].'</td>';
-
-                                                $itemUsuario="id";
-                                                $valorUsuario=$value["id_vendedor"];
-
-                                            $respuestaUsuarios=ControladorUsuarios::ctrMostrarUsuarios($itemUsuario,$valorUsuario);
-
-
-                                            echo'<td>'.$respuestaUsuarios["nombre"].'</td>
+                                            <td>'.$value["vendedor_nombre"].'</td>
                                             <td>'.$value["total"].'</td>
                                             <td>'.$value["estado"].'</td>
                                             <td>'.$value["fecha"].'</td>';

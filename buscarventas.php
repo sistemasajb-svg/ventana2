@@ -18,7 +18,7 @@ if (isset($_POST['fechaInicial']) && isset($_POST['fechaFinal'])) {
 
 if ($_SESSION['perfil'] == "SuperAdministrador" || $_SESSION['perfil'] == "Administrador" || $_SESSION['perfil'] == "Caja" || $_SESSION['perfil'] == "Ventas") {
 
-    $respuesta = \ControladorVerventas::ctrRangoFechasVentasTerminadas($fechaInicial, $fechaFinal);
+    $respuesta = \ControladorVerventas::ctrListarVentasTerminadas($fechaInicial, $fechaFinal);
 
     foreach ($respuesta as $key => $value) {
 
@@ -29,19 +29,9 @@ if ($_SESSION['perfil'] == "SuperAdministrador" || $_SESSION['perfil'] == "Admin
             <td>' . ($key + 1) . '</td>
             <td>' . $value["codigo"] . '</td>';
 
-        $itemCliente = "id";
-        $valorCliente = $value["id_cliente"];
+        echo ' <td>' . $value["cliente_nombre"] . '</td>';
 
-        $respuestaCliente = \ControladorClientes::ctrMostrarClientes($itemCliente, $valorCliente);
-
-        echo ' <td>' . $respuestaCliente["nombre"] . '</td>';
-
-        $itemUsuario = "id";
-        $valorUsuario = $value["id_vendedor"];
-
-        $respuestaUsuarios = \ControladorUsuarios::ctrMostrarUsuarios($itemUsuario, $valorUsuario);
-
-        echo '<td>' . $respuestaUsuarios["nombre"] . '</td>
+        echo '<td>' . $value["vendedor_nombre"] . '</td>
             <td>' . $value["total"] . '</td>
             <td>' . $value["estado"] . '</td>
             <td>' . $value["fecha"] . '</td>';

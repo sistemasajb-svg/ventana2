@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . "/config.php";
+
 
 
 class Conexion{
@@ -7,10 +9,14 @@ class Conexion{
     static public function conectar(){
 
 
-      $link = new PDO("mysql:host=host.cpse13.eu;dbname=y224661_nuevabaseavicolajb" , "y224661_useravicolajb" , "@exenk123456@");
-        //  $link = new PDO("mysql:host=localhost;dbname=sistemadeventas" , "root" , "");
+      $link = new PDO(
+          "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8mb4",
+          DB_USER,
+          DB_PASS,
+          array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
+      );
 
-        $link->exec("set names utf8");
+        $link->exec("set names utf8mb4");
 
         return $link;
 
