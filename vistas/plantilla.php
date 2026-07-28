@@ -164,14 +164,14 @@ if(isset($_SESSION["iniciarSesion"]) && $_SESSION["iniciarSesion"] == "okcompra"
 
 
 
-    <script src="vistas/js/util.js"></script>
-    <script src="vistas/js/usuarios.js"></script>
-    <script src="vistas/js/ingresoegreso.js"></script>
-    <script src="vistas/js/cajas.js"></script>
-    <script src="vistas/js/pagos.js"></script>
-    <script src="vistas/js/verventas.js"></script>
-    <script src="vistas/js/personas.js"></script>
-    <script src="vistas/js/pendientes.js"></script>
+    <script src="vistas/js/util.js?v=2"></script>
+    <script src="vistas/js/usuarios.js?v=2"></script>
+    <script src="vistas/js/ingresoegreso.js?v=2"></script>
+    <script src="vistas/js/cajas.js?v=2"></script>
+    <script src="vistas/js/pagos.js?v=2"></script>
+    <script src="vistas/js/verventas.js?v=2"></script>
+    <script src="vistas/js/personas.js?v=2"></script>
+    <script src="vistas/js/pendientes.js?v=2"></script>
 
 
 
