@@ -247,6 +247,12 @@
                     <br>
                     </br>
                     <table id="tablas2" class="table table-bordered table-striped dt-responsive tablas mt-3">
+
+                        <script>
+                            $(document).ready(function() {
+                                initDataTable('#tablas2');
+                            });
+                        </script>
                         <thead>
                             <tr>
                                 <th style="width:10px">#</th>
