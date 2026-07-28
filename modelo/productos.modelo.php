@@ -5,11 +5,22 @@ require_once "conexion.php";
 
 class ModeloProductos{
 
+    /**
+     * @param string $campo
+     * @param array $permitidos
+     * @param string $default
+     * @return string
+     */
     static private function campoSeguro($campo, $permitidos, $default)
     {
         return in_array($campo, $permitidos, true) ? $campo : $default;
     }
 
+    /**
+     * @param string|null $campo
+     * @param array $permitidos
+     * @return string|null
+     */
     static private function campoOpcional($campo, $permitidos)
     {
         if ($campo === null) {
@@ -20,6 +31,13 @@ class ModeloProductos{
     }
 
 
+    /**
+     * @param string $tabla
+     * @param string|null $item
+     * @param mixed $valor
+     * @param string $orden
+     * @return array|false
+     */
     static public function mdlMostrarProductos($tabla, $item,$valor,$orden){
 
         $tabla = self::campoSeguro($tabla, array('productos'), 'productos');
