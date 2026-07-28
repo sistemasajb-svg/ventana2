@@ -91,9 +91,9 @@ class ModeloVerventas{
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla  WHERE $item=:$item and codigo > '999' ORDER BY id ASC");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla  WHERE $item = :valor and codigo > '999' ORDER BY id ASC");
 
-            $stmt ->bindParam(":".$item ,$valor,PDO::PARAM_STR);
+            $stmt ->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 

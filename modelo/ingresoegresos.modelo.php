@@ -5,8 +5,25 @@ require_once "conexion.php";
 
 class ModeloIngresoegresos{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
     
     static public function mdlMostrarHistorialingresosalida($tabla,$item,$valor){
+
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+        $item = self::campoOpcional($item, array('id', 'idcaja', 'dni', 'idcliente', 'tipo'));
 
     
         
@@ -24,9 +41,9 @@ class ModeloIngresoegresos{
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -52,6 +69,8 @@ class ModeloIngresoegresos{
   
 
     static public function mdlIngresarcajapersona($tabla, $datos){
+
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
                 
         
 		$stmt2 = Conexion::conectar()->prepare("UPDATE caja SET caja = caja + :ingreso2  WHERE estado = 'activo' ");
@@ -92,7 +111,9 @@ class ModeloIngresoegresos{
 
 
 
-	static public function mdlEgresocajapersona($tabla, $datos){
+    static public function mdlEgresocajapersona($tabla, $datos){
+
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
                 
         
 		$stmt2 = Conexion::conectar()->prepare("UPDATE caja SET caja =caja - :egreso2 WHERE estado = 'activo' ");
@@ -140,6 +161,8 @@ class ModeloIngresoegresos{
    
    
     static public function mdlMostrarIngresoSalidaActualEliminar($tabla,$item,$valor){
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+        $item = self::campoOpcional($item, array('id', 'idcaja', 'dni', 'idcliente', 'tipo'));
         $fechahoy = date('Y-m-d');
 
    
@@ -151,9 +174,9 @@ class ModeloIngresoegresos{
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -162,7 +185,9 @@ class ModeloIngresoegresos{
 
         }else{
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE tipo != 'PAGOCLIENTE' and tipo != 'PAGOCLIENTEBANCO' and tipo != 'APERTURA CAJA' and fecha like '%$fechahoy%' ORDER BY fecha DESC;" );
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE tipo != 'PAGOCLIENTE' and tipo != 'PAGOCLIENTEBANCO' and tipo != 'APERTURA CAJA' and fecha like :fechahoy ORDER BY fecha DESC;" );
+
+            $stmt->bindValue(":fechahoy", "%$fechahoy%", PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -243,17 +268,20 @@ class ModeloIngresoegresos{
     }
 
 
-  static public function mdlfiltraringresosalida($tabla, $item, $valor, $fecha1, $fecha2)
+   static public function mdlfiltraringresosalida($tabla, $item, $valor, $fecha1, $fecha2)
     {
+
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+        $item = self::campoOpcional($item, array('id', 'idcaja', 'dni', 'idcliente', 'tipo'));
 
         $stmt4 = Conexion::conectar()->prepare("UPDATE historialcaja SET cliente = (SELECT nombre from personas where documento=dni) WHERE tipo='INGRESO CAJA' or tipo='EGRESO CAJA'");
         $stmt4->execute();
  
         if ($item != null) {
 
-            $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item AND fecha >= :fecha1 AND fecha <= :fecha2");
+            $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor AND fecha >= :fecha1 AND fecha <= :fecha2");
 
-            $stmt->bindParam(":" . $item, $valor, PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
             $stmt->bindParam(":fecha1", $fecha1, PDO::PARAM_STR);
             $stmt->bindParam(":fecha2", $fecha2, PDO::PARAM_STR);
 

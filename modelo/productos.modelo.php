@@ -5,8 +5,26 @@ require_once "conexion.php";
 
 class ModeloProductos{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
 
     static public function mdlMostrarProductos($tabla, $item,$valor,$orden){
+
+        $tabla = self::campoSeguro($tabla, array('productos'), 'productos');
+        $item = self::campoOpcional($item, array('id', 'codigo', 'descripcion', 'id_categoria', 'stock'));
+        $orden = self::campoSeguro($orden, array('id', 'codigo', 'descripcion', 'stock'), 'id');
 
 
 		
@@ -17,9 +35,9 @@ class ModeloProductos{
 			$stmt5 = Conexion::conectar()->prepare("DELETE FROM movimientos WHERE tipo ='INGRESO PRODUCTO' and cantidad='0'");
 
 
-            $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :$item ORDER BY id DESC");
+            $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor ORDER BY id DESC");
 
-            $stmt -> bindParam(":".$item, $valor, PDO::PARAM_STR);
+            $stmt -> bindParam(":valor", $valor, PDO::PARAM_STR);
 
 			$stmt -> execute();
 			$stmt2 -> execute();

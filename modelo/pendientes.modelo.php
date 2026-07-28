@@ -5,14 +5,31 @@ require_once "conexion.php";
 
 class ModeloPendientes{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
     static public function mdlMostrarPendientes($tabla,$item,$valor){
+
+        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+        $item = self::campoOpcional($item, array('id', 'documento', 'email', 'telefono', 'estado'));
 
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -39,6 +56,8 @@ class ModeloPendientes{
 
                         
     static public function mdlIngresarPendiente($tabla,$datos){
+
+        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
 
         $stmt=Conexion::conectar()->prepare("INSERT INTO $tabla(nombre,documento,email,telefono,direccion,fecha_nacimiento) VALUES (:nombre,:documento,:email,:telefono,:direccion,:fecha_nacimiento)");
 
@@ -69,6 +88,8 @@ class ModeloPendientes{
 
 
 static public function mdlEditarPendienteegreso($tabla, $datos){
+
+		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
 
 		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = :estadopendientes, cerrarpendiente = 'CERRADO' WHERE id = :id");
 
@@ -120,6 +141,8 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlEditarPendiente($tabla, $datos){
 
+		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+
 		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = :estadopendientes, cerrarpendiente = 'CERRADO' WHERE id = :id");
 
 		$stmt->bindParam(":id", $datos["id"], PDO::PARAM_INT);
@@ -168,6 +191,8 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlEliminarPendiente($tabla, $datos){
 
+        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+
         $stmt = Conexion::conectar()->prepare("DELETE FROM $tabla WHERE id=:id");
 
         $stmt->bindParam(":id", $datos, PDO::PARAM_INT);
@@ -196,9 +221,12 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlActualizarPendiente($tabla, $item1, $valor1, $valor){
 
-        $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 = :$item1 WHERE id = :id");
+		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+        $item1 = self::campoOpcional($item1, array('detalle', 'estado', 'cerrarpendiente', 'documento'));
 
-		$stmt -> bindParam(":".$item1, $valor1, PDO::PARAM_STR);
+        $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 = :valor1 WHERE id = :id");
+
+		$stmt -> bindParam(":valor1", $valor1, PDO::PARAM_STR);
 		$stmt -> bindParam(":id", $valor, PDO::PARAM_STR);
 
         if($stmt -> execute()){

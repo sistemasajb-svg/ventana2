@@ -2,7 +2,21 @@
 
     require_once "conexion.php";
 
-    class ModeloCajas{
+class ModeloCajas{
+
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
         
         
         
@@ -84,13 +98,16 @@
 
         //MOSTRAR TODAS LAS CAJAS
         static public function mdlMostrarCajas($tabla,$item,$valor){
+
+            $tabla = self::campoSeguro($tabla, array('caja'), 'caja');
+            $item = self::campoOpcional($item, array('id', 'estado', 'cajero', 'idcaja', 'fecha'));
         
 
             if($item !=null){
 
-                $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+                $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-                $stmt->bindParam(":".$item ,$valor,PDO::PARAM_STR);
+                $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
                 $stmt->execute();
 
@@ -116,6 +133,8 @@
 
         //MOSTRAR MONTO DE LA CAJA ULTIMA
         static public function mdlMostrarCajasmonto($tabla,$item,$valor){
+
+            $tabla = self::campoSeguro($tabla, array('caja'), 'caja');
 
             if($item !=null){
                 $stmt=Conexion::conectar()->prepare("SELECT * FROM caja order by id desc limit 1");
@@ -183,11 +202,15 @@
 
         //cerrar caja 
         static public function mdlActualizarCajascierre($tabla, $item1, $valor1, $item2, $valor2){
+
+            $tabla = self::campoSeguro($tabla, array('caja'), 'caja');
+            $item1 = self::campoOpcional($item1, array('estado', 'fechacierre', 'caja', 'banco'));
+            $item2 = self::campoOpcional($item2, array('id', 'estado', 'cajero'));
     
-            $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 =:$item1 ,fechacierre = :fecha WHERE $item2=:$item2");
-    
-            $stmt -> bindParam(":".$item1, $valor1, PDO::PARAM_STR);
-            $stmt -> bindParam(":".$item2, $valor2, PDO::PARAM_STR);
+            $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 = :valor1 ,fechacierre = :fecha WHERE $item2 = :valor2");
+
+            $stmt -> bindParam(":valor1", $valor1, PDO::PARAM_STR);
+            $stmt -> bindParam(":valor2", $valor2, PDO::PARAM_STR);
             $stmt ->bindParam(":fecha" ,date('y-m-d H:i:s'),PDO::PARAM_STR);
     
     
@@ -215,12 +238,15 @@
         //HISTORIAL PARA CAJA REPORTE PDF
         static public function mdlMostrarHistorialcajas($tabla,$item,$valor){
 
+            $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+            $item = self::campoOpcional($item, array('idcaja', 'id', 'dni', 'idcliente'));
+
 
             if($item !=null){
 
-                $stmt=Conexion::conectar()->prepare("SELECT * FROM historialcaja WHERE idcaja=:$item ");
+                $stmt=Conexion::conectar()->prepare("SELECT * FROM historialcaja WHERE idcaja = :valor ");
 
-                $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+                $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
                 $stmt->execute();
 
@@ -246,12 +272,15 @@
         
         static public function mdlMostrarHistorialcajas7fe($tabla,$item,$valor){
 
+            $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+            $item = self::campoOpcional($item, array('idcaja', 'id', 'dni', 'idcliente'));
+
 
             if($item !=null){
 
-                $stmt=Conexion::conectar()->prepare("SELECT * FROM historialcaja WHERE idcaja=:$item AND TIPO NOT LIKE '%BANCO%' ");
+                $stmt=Conexion::conectar()->prepare("SELECT * FROM historialcaja WHERE idcaja = :valor AND TIPO NOT LIKE '%BANCO%' ");
 
-                $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+                $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
                 $stmt->execute();
 
@@ -278,12 +307,15 @@
         //HISTORIAL PARA CAJA REPORTE PDF
         static public function mdlMostrarHistorialcajas2($tabla,$item,$valor){
 
+            $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+            $item = self::campoOpcional($item, array('id', 'idcaja', 'dni', 'idcliente'));
+
 
             if($item !=null){
 
-                $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE id=:$item");
+                $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE id = :valor");
 
-                $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+                $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
                 $stmt->execute();
 

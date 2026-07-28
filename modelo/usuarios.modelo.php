@@ -4,7 +4,23 @@ require_once "conexion.php";
 
 class ModeloUsuarios{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
     static public function mdlMostrarUsuarios($tabla,$item,$valor){
+        $tabla = self::campoSeguro($tabla, array('usuarios'), 'usuarios');
+        $item = self::campoOpcional($item, array('id', 'usuario', 'perfil', 'estado'));
         
         
         
@@ -50,6 +66,8 @@ class ModeloUsuarios{
 
     static public function mdlEditarUsuario($tabla, $datos){
 
+        $tabla = self::campoSeguro($tabla, array('usuarios'), 'usuarios');
+
         $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET nombre = :nombre, password = :password, perfil = :perfil, foto = :foto WHERE usuario = :usuario");
 
 
@@ -90,6 +108,8 @@ class ModeloUsuarios{
 
     static public function mdlIngresarUsuario($tabla,$datos){
 
+        $tabla = self::campoSeguro($tabla, array('usuarios'), 'usuarios');
+
 
         $stmt=Conexion::conectar()->prepare("INSERT INTO $tabla(nombre,usuario,password,perfil,foto) VALUES (:nombre,:usuario,:password,:perfil,:foto)");
 
@@ -124,6 +144,8 @@ class ModeloUsuarios{
 	=============================================*/
 
     static public function mdlBorrarUsuarios($tabla , $datos){
+
+        $tabla = self::campoSeguro($tabla, array('usuarios'), 'usuarios');
 
         $stmt = Conexion::conectar()->prepare("DELETE FROM $tabla WHERE id=:id");
 
@@ -161,10 +183,14 @@ class ModeloUsuarios{
 
     static public function mdlActualizarUsuario($tabla, $item1, $valor1, $item2, $valor2){
 
-        $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 =:$item1 WHERE $item2=:$item2");
+        $tabla = self::campoSeguro($tabla, array('usuarios'), 'usuarios');
+        $item1 = self::campoSeguro($item1, array('nombre', 'password', 'perfil', 'foto', 'estado'), 'nombre');
+        $item2 = self::campoSeguro($item2, array('id', 'usuario', 'perfil'), 'id');
 
-        $stmt -> bindParam(":".$item1, $valor1, PDO::PARAM_STR);
-		$stmt -> bindParam(":".$item2, $valor2, PDO::PARAM_STR);
+        $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 = :valor1 WHERE $item2 = :valor2");
+
+        $stmt -> bindParam(":valor1", $valor1, PDO::PARAM_STR);
+        $stmt -> bindParam(":valor2", $valor2, PDO::PARAM_STR);
 
         if($stmt -> execute()){
 

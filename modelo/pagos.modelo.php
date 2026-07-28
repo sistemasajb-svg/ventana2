@@ -5,10 +5,25 @@ require_once "conexion.php";
 
 class ModeloPagos{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
 
     
     static public function mdl_ver_tabla_excel($tabla)
     {
+        $tabla = self::campoSeguro($tabla, array('datos_excel'), 'datos_excel');
         $fechahoy = date('Y-m-d');
     
         try {
@@ -54,7 +69,8 @@ $validar->execute();
     
         try {
             // Fetch data from the specified table
-            $stmt = $conn->prepare("SELECT * FROM $tabla WHERE fecha LIKE '%$fechahoy%' ORDER BY fecha DESC;");
+            $stmt = $conn->prepare("SELECT * FROM $tabla WHERE fecha LIKE :fechahoy ORDER BY fecha DESC;");
+            $stmt->bindValue(":fechahoy", "%$fechahoy%", PDO::PARAM_STR);
             $stmt->execute();
             return $stmt->fetchAll();
             
@@ -113,6 +129,8 @@ $validar->execute();
 
     //ver historial de pagos del cliente 
     static public function mdlMostrarHistorialpagos($tabla,$item,$valor){
+        $tabla = self::campoSeguro($tabla, array('historialpagos'), 'historialpagos');
+        $item = self::campoOpcional($item, array('id', 'dni', 'idcliente', 'metodopago', 'idvendedor'));
         
         //update ventas set `actual` = (SELECT saldo from clientes where documento = `id_cliente`), `actualvalidar` = 1 where `actualvalidar` != 1
         $stmtvali=Conexion::conectar()->prepare("update ventas set `actual` = (SELECT saldo from clientes where documento = `id_cliente`), `actualvalidar` = 1 where `actualvalidar` != 1");
@@ -123,9 +141,9 @@ $validar->execute();
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -134,7 +152,9 @@ $validar->execute();
 
         }else{
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla where fecha like '%$fechahoy%' ORDER BY fecha DESC;" );
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla where fecha like :fechahoy ORDER BY fecha DESC;" );
+
+            $stmt->bindValue(":fechahoy", "%$fechahoy%", PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -354,14 +374,17 @@ $validar->execute();
 	
 	
 	
-	static public function mdlMostrarHistorialpagosreporte($tabla,$item,$valor){
+    static public function mdlMostrarHistorialpagosreporte($tabla,$item,$valor){
+
+        $tabla = self::campoSeguro($tabla, array('historialpagos'), 'historialpagos');
+        $item = self::campoOpcional($item, array('idcliente', 'dni', 'id', 'metodopago', 'idvendedor'));
 
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE idcliente=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE idcliente = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 
@@ -388,14 +411,17 @@ $validar->execute();
 
     static public function mdlMostrarHistorialpagosreporte2($tabla,$item,$valor){
 
+        $tabla = self::campoSeguro($tabla, array('historialpagos'), 'historialpagos');
+        $item = self::campoOpcional($item, array('idcliente', 'dni', 'id', 'metodopago', 'idvendedor'));
+
  $stmtvali=Conexion::conectar()->prepare("update ventas set `actual` = (SELECT saldo from clientes where documento = `id_cliente`), `actualvalidar` = 1 where `actualvalidar` != 1");
         $stmtvali->execute();
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE idcliente=:$item  ORDER BY fecha DESC");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE idcliente = :valor  ORDER BY fecha DESC");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
 
             $stmt->execute();
 

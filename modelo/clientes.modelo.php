@@ -4,7 +4,24 @@ require_once "conexion.php";
 
 class ModeloClientes{
 
+    static private function campoSeguro($campo, $permitidos, $default)
+    {
+        return in_array($campo, $permitidos, true) ? $campo : $default;
+    }
+
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
     static public function mdlMostrarClientes($tabla,$item,$valor){
+
+        $tabla = self::campoSeguro($tabla, array('clientes'), 'clientes');
+        $item = self::campoOpcional($item, array('id', 'documento', 'nombre', 'id_cliente'));
         
        // $stmtvalix=Conexion::conectar()->prepare("update ventas set `actual` =0, `actualvalidar` = '0' ");
     //    $stmtvalix->execute();

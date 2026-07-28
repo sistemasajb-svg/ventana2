@@ -56,11 +56,15 @@ class ModeloPagoMasivo
 
     static public function mdlMostrarPersonas($tabla, $item, $valor)
     {
+        $tabla = $tabla === 'personas' ? 'personas' : 'personas';
+        $item = in_array($item, array('id', 'documento', 'nombre', 'email', 'telefono'), true) ? $item : null;
 
-        $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE ");
+        if ($item === null) {
+            return null;
+        }
 
-        $stmt->bindParam(":" . $item, $valor, PDO::PARAM_STR);
-
+        $stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
+        $stmt->bindParam(":valor", $valor, PDO::PARAM_STR);
         $stmt->execute();
 
         return $stmt->fetch();

@@ -5,14 +5,25 @@ require_once "conexion.php";
 
 class ModeloPersonas{
 
+    static private function campoOpcional($campo, $permitidos)
+    {
+        if ($campo === null) {
+            return null;
+        }
+
+        return in_array($campo, $permitidos, true) ? $campo : null;
+    }
+
     static public function mdlMostrarPersonas($tabla,$item,$valor){
+
+        $item = self::campoOpcional($item, array('id', 'documento', 'nombre', 'email', 'telefono'));
 
 
         if($item !=null){
 
-            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item=:$item");
+            $stmt=Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE $item = :valor");
 
-            $stmt->bindParam(":".$item,$valor,PDO::PARAM_STR);
+            $stmt->bindParam(":valor", $valor,PDO::PARAM_STR);
 
             $stmt->execute();
 
