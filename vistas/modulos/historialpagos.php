@@ -131,7 +131,7 @@
 
                     </table>
 
-                </div>
+                    </div>
 
             </div>
 
@@ -141,6 +141,12 @@
     </section>
 
 </div>
+
+<script>
+    $(document).ready(function() {
+        initDataTable('#tablas2');
+    });
+</script>
 
 
 

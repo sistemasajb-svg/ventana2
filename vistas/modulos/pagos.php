@@ -395,8 +395,14 @@ window.onload = function() {
 
            </section>
 
-           <script>
-            $(".tablas").on("click", ".btnEditarVentasAdmin", function () {
+            <script>
+                $(document).ready(function() {
+                    initDataTable('#tablas2');
+                });
+            </script>
+
+            <script>
+             $(".tablas").on("click", ".btnEditarVentasAdmin", function () {
     
     var idVenta = $(this).attr("idVentas");
 

@@ -199,8 +199,13 @@
 
            </section>
 
-       </div>
+        </div>
 
+<script>
+    $(document).ready(function() {
+        initDataTable('#tablas2');
+    });
+</script>
 
 
 
