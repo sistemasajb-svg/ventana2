@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE & ~E_DEPRECATED);
+if (ob_get_level()) ob_end_clean();
 
 require_once "../../controladores/cajas.controlador.php";
 require_once "../../modelo/cajas.modelo.php";

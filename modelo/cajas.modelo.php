@@ -307,7 +307,7 @@ class ModeloCajas{
         //HISTORIAL PARA CAJA REPORTE PDF
         static public function mdlMostrarHistorialcajas2($tabla,$item,$valor){
 
-            $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
+            $tabla = self::campoSeguro($tabla, array('historialcaja', 'caja'), 'caja');
             $item = self::campoOpcional($item, array('id', 'idcaja', 'dni', 'idcliente'));
 
 
