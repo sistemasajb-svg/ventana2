@@ -84,7 +84,6 @@ class ControladorPendientes{
  
 					$datos = array(
 							 "id"=>$_POST["idPendienteegreso"],
-							 "estadopendientes"=>$_POST["cantidadingresopendienteagregaregreso"],
 							 "editardetallesegundo"=>$_POST["editardetallesegundo"],
 							 "ingreso" =>$_POST["cantidadingresopendienteagregaregreso"],
 							 "detalle" =>$_POST["editardetallesegundoegreso"],

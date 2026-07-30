@@ -21,7 +21,7 @@ class ModeloPendientes{
 
     static public function mdlMostrarPendientes($tabla,$item,$valor){
 
-        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
         $item = self::campoOpcional($item, array('id', 'documento', 'email', 'telefono', 'estado'));
 
 
@@ -57,7 +57,7 @@ class ModeloPendientes{
                         
     static public function mdlIngresarPendiente($tabla,$datos){
 
-        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
 
         $stmt=Conexion::conectar()->prepare("INSERT INTO $tabla(nombre,documento,email,telefono,direccion,fecha_nacimiento) VALUES (:nombre,:documento,:email,:telefono,:direccion,:fecha_nacimiento)");
 
@@ -89,13 +89,12 @@ class ModeloPendientes{
 
 static public function mdlEditarPendienteegreso($tabla, $datos){
 
-		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+		$tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
 
-		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = :estadopendientes, cerrarpendiente = 'CERRADO' WHERE id = :id");
+		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = 'Terminado', cerrarpendiente = 'CERRADO' WHERE id = :id");
 
 		$stmt->bindParam(":id", $datos["id"], PDO::PARAM_INT);
 		$stmt->bindParam(":editardetallesegundo", $datos["editardetallesegundo"], PDO::PARAM_STR);
-        $stmt->bindParam(":estadopendientes", $datos["estadopendientes"], PDO::PARAM_STR);
 
 
         //  AGREWGAR
@@ -141,13 +140,12 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlEditarPendiente($tabla, $datos){
 
-		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+		$tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
 
-		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = :estadopendientes, cerrarpendiente = 'CERRADO' WHERE id = :id");
+		$stmt = Conexion::conectar()->prepare("UPDATE $tabla SET detalle = :editardetallesegundo, estado = 'Terminado', cerrarpendiente = 'CERRADO' WHERE id = :id");
 
 		$stmt->bindParam(":id", $datos["id"], PDO::PARAM_INT);
 		$stmt->bindParam(":editardetallesegundo", $datos["editardetallesegundo"], PDO::PARAM_STR);
-        $stmt->bindParam(":estadopendientes", $datos["estadopendientes"], PDO::PARAM_STR);
 
 
         //  AGREWGAR
@@ -191,7 +189,7 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlEliminarPendiente($tabla, $datos){
 
-        $tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+        $tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
 
         $stmt = Conexion::conectar()->prepare("DELETE FROM $tabla WHERE id=:id");
 
@@ -221,7 +219,7 @@ static public function mdlEditarPendienteegreso($tabla, $datos){
 
     static public function mdlActualizarPendiente($tabla, $item1, $valor1, $valor){
 
-		$tabla = self::campoSeguro($tabla, array('pendientes'), 'pendientes');
+		$tabla = self::campoSeguro($tabla, array('historialcaja'), 'historialcaja');
         $item1 = self::campoOpcional($item1, array('detalle', 'estado', 'cerrarpendiente', 'documento'));
 
         $stmt = Conexion::conectar()->prepare("UPDATE $tabla SET $item1 = :valor1 WHERE id = :id");
