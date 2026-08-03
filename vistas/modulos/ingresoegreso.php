@@ -422,11 +422,13 @@ jQuery(document).ready(function($){
 
 
 
-
-
                        </table>
 
-
+<script>
+    $(document).ready(function() {
+        initDataTable('#tablas2');
+    });
+</script>
 
 
 
